@@ -64,3 +64,15 @@ h4.profession {
     border-left: 1px solid #CCCCCC;
 }
 
+.row {
+    padding: 30px;
+    text-align: center;
+    border-top: solid;
+    border-bottom: solid;
+    border-color: gainsboro;
+}
+
+
+svg {
+    margin: 10px;
+}
