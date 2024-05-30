@@ -1,0 +1,46 @@
+﻿@page
+@model IndexModel
+@{
+    ViewData["Title"] = "Dylan Rothbauer Portfolio Projects";
+}
+
+<h1 class="title">Projects</h1>
+<main role="main" class="container">
+    <section id="projects" class="my-5">
+        <div class="row">
+            <div class="col-md-12">
+                <h2 class="mb-4">Projects</h2>
+                <div class="card mb-3">
+                    <div class="card-body">
+                        <h5 class="card-title">Game of Life</h5>
+                        <p class="card-text"><strong>Technologies Used:</strong> C++, Visual Studio</p>
+                        <p class="card-text">Developed a C++ implementation of Conway's Game of Life, a cellular automation that simulates the evolution of cell patterns based on simple rules</p>
+                        <p>Implemented a grid-based simulation with user-defined dimensions</p>
+                        <p>Ensured boundary conditions were handled correctly</p>
+                        <a href="https://github.com/DylanRothbauer/Game-of-Life/tree/main/Assignment2" class="btn btn-primary">View Project</a>
+                    </div>
+                </div>
+                <!-- More projects here -->
+                <div class="card mb-3">
+                    <div class="card-body">
+                        <h5 class="card-title">Server Requests</h5>
+                        <p class="card-text"><strong>Technologies Used:</strong> C++, Visual Studio</p>
+                        <p class="card-text">Designed and developed a versatile server request simulation program to optimize request handling and resource allocation in real-time</p>
+                        <p>Dynamically switched between queue and stack data structures based on request processing times, ensuring efficient resource utilization</p>
+                        <p>Reduced server response times and improved overall system efficiency</p>
+                        <a href="https://github.com/DylanRothbauer/ServerRequests" class="btn btn-primary">View Project</a>
+                    </div>
+                </div>
+                <!-- More projects here -->
+            </div>
+        </div>
+    </section>
+    <section id="github-link" class="my-5">
+        <div class="row">
+            <div class="col-md-12">
+                <p>For more projects, check out my GitHub profile:</p>
+                <a href="https://github.com/DylanRothbauer" class="btn btn-secondary" target="_blank">GitHub Profile</a>
+            </div>
+        </div>
+    </section>
+</main>
