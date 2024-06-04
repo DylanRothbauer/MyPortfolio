@@ -72,14 +72,14 @@ h4.profession {
     border-color: gainsboro;
 }
 
-rect {
+/*rect {
     width: 100%;
     height: 100%;
     fill: #69c;
     stroke: #069;
     stroke-width: 5px;
     opacity: 0;
-}
+}*/
 
 /* ----- Image Zoom ----- */
 .img-zoom {
@@ -110,7 +110,3 @@ img.my-img {
     transform: scale(1.2);
 }
 /* ---------------------- */
-
-a[b-ky09ydz9pw] {
-    color: black;
-}
