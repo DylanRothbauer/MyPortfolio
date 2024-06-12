@@ -1,20 +1,6 @@
 # Introduction 
-TODO: Give a short introduction of your project. Let this section explain the objectives or the motivation behind this project. 
+The summer of 2024, I had the great pleasure to intern at Heartland Business Systems (HBS) as a Software Engineering Associate. My first project for the summer was to make and deploy a web app portfolio.  
+I enaged in front end work using HTML and CSS (with bootstrap), the .Net Core environment with @Razor pages, and deploying with Azure DevOps.
 
-# Getting Started
-TODO: Guide users through getting your code up and running on their own system. In this section you can talk about:
-1.	Installation process
-2.	Software dependencies
-3.	Latest releases
-4.	API references
-
-# Build and Test
-TODO: Describe and show how to build your code and run the tests. 
-
-# Contribute
-TODO: Explain how other users and developers can contribute to make your code better. 
-
-If you want to learn more about creating good readme files then refer the following [guidelines](https://docs.microsoft.com/en-us/azure/devops/repos/git/create-a-readme?view=azure-devops). You can also seek inspiration from the below readme files:
-- [ASP.NET Core](https://github.com/aspnet/Home)
-- [Visual Studio Code](https://github.com/Microsoft/vscode)
-- [Chakra Core](https://github.com/Microsoft/ChakraCore)
+# Checkout my portfolio
+Visit https://dylanrothbauer.azurewebsites.net/ to view my portfolio!
